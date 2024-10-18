@@ -698,12 +698,14 @@ class angkatan23 extends Mahasiswa{
 ?>
 ```
 
+Penerapan Polymorphism disini, saya menggunakan method **tampilData()**, menerapkan tampilData() di semua class turunan tetapi dengan cara yang berbeda
+
 ##### b. Polymorphism dengan menerapkan 2 Role. 
 2 Role yang saya gunakan disini adalah Admin dan Mahasiswa
  - Admin
   Admin disini saya berikan izin akses yaitu akses ke data mahasiswa, data nilai mahasiswa, beasiswa, magang, wilayah dan angkatan23
 - Mahasiswa
-  Sedangkan Role Mahasiswa diberikan izin akses ke beasiswa, magang, wilayah dan angkatan23
+  Sedangkan Role Mahasiswa diberikan izin akses ke beasiswa, magang, wilayah dan angkatan23<br>
   **Codingan Index**
 ```php
 <?php
