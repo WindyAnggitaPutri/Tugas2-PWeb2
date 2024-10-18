@@ -876,9 +876,7 @@ Hasil Output dibawah ini menunjukan 2 role yaitu admin dan mahasiswa
 **Hasil Output User Mahasiswa**
 ![6](https://github.com/user-attachments/assets/dc6f49d3-229e-41a3-b31e-9a088a63e68c)
 
-### Kode Sumber
-1. **substr** adalah mengambil nilai tertentu dari string, seperti bagian dari kode atau nomor ID. Disini saya menggunakannya sebagai penentu 2 angka di depan dalam nim.
-2. 
+
 
 
 
