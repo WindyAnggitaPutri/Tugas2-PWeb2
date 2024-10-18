@@ -15,20 +15,22 @@ sedangkan objek adalah instansiasi dari kelas tersebut. Dengan memanfaatkan kela
 dan objek, kode dapat diorganisir dengan lebih baik, lebih mudah dipelihara, dan dapat
 digunakan kembali. Object-Oriented Programming (OOP) adalah paradigma pemrograman yang
 berfokus pada konsep objek. Dalam OOP, konsep dasar seperti class dan object digunakan untuk memodelkan masalah dunia nyata ke dalam kode program. Prinsip-prinsip dasar OOP termasuk Encapsulation, Inheritance, Polymorphism, dan Abstraction yang memungkinkan kode lebih modular, terstruktur, dan mudah dipelihara. <br>
-### Konsep Dasar OOP
+### Konsep Dasar OOP / Pondasi Dari OOP
 #### 1. Class 
 Class adalah sebuah blueprint untuk menciptakan objek atau instansiasi objek<br>
 #### 2. Objek
 Objek adalah merupakan bentuk dari instansiasi dari sebuah class<br>
 #### 3. Method
 Method adalah sebuah perilaku yang dapat dimiliki oleh class atau objek.<br>
-#### 4. Encapsulation
+
+### Prinsip OOP
+#### 1. Encapsulation
 Encapsulation adalah method untuk menyembunyikan detail implementasi dan hanya memberikan akses melalui method tertentu<br>
-#### 5. Inheritance 
+#### 2. Inheritance 
 Inheritance adalah sebuah method dimana Kelas dapat mewarisi properti dan metode dari kelas lain.<br>
-#### 6. Polymorphism 
+#### 3. Polymorphism 
 Polymorphism adalah mengimplementasikan method yang sama kedalam semua class turunan dengan cara yang berbeda.<br>
-#### 7. Abstraction
+#### 4. Abstraction
 Abstraction adalah sebuah method yang dimana berfungsi menyembunyikan detail implementasi dan hanya menampilkan fungsi penting.<br>
 
 
